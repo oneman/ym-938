@@ -8,24 +8,6 @@
 
 typedef unsigned char u8;
 
-int byte_to_words(u8 byte, char *text, size_t sz) {
-/*  int ret = 0;
-  if (sz < 14) exit(1);
-  if (n < 10) {
-    return snprintf(text, sz, "%s", digit_word(n));
-  }
-  if (n < 100) {
-      printf("%s ", digit_word(n / 10));
-      printf("%s", digit_word(n % 10));
-      continue;
-    }
-    printf("%s ", digit_word(n / 100));
-    printf("%s ", digit_word((n % 100) / 10));
-    printf("%s\n", digit_word((n % 100) % 10));
-*/
-  return -1;
-}
-
 char *digit_word(u8 d) {
   if (d > 9) exit(1);
   if (d == 0) { return("zero"); }
@@ -41,21 +23,56 @@ char *digit_word(u8 d) {
   exit(1);
 }
 
+char *nato(char letter) {
+  if ((letter == 'a') || (letter == 'A')) return "alpha";
+  if ((letter == 'b') || (letter == 'B')) return "bravo";
+  if ((letter == 'c') || (letter == 'C')) return "charlie";
+  if ((letter == 'd') || (letter == 'D')) return "delta";
+  if ((letter == 'e') || (letter == 'E')) return "echo";
+  if ((letter == 'f') || (letter == 'F')) return "foxtrot";
+  if ((letter == 'g') || (letter == 'G')) return "golf";
+  if ((letter == 'h') || (letter == 'H')) return "hotel";
+  if ((letter == 'i') || (letter == 'I')) return "india";
+  if ((letter == 'j') || (letter == 'J')) return "juliett";
+  if ((letter == 'k') || (letter == 'K')) return "kilo";
+  if ((letter == 'l') || (letter == 'L')) return "lima";
+  if ((letter == 'm') || (letter == 'M')) return "mike";
+  if ((letter == 'n') || (letter == 'N')) return "november";
+  if ((letter == 'o') || (letter == 'O')) return "oscar";
+  if ((letter == 'p') || (letter == 'P')) return "papa";
+  if ((letter == 'q') || (letter == 'Q')) return "quebec";
+  if ((letter == 'r') || (letter == 'R')) return "romeo";
+  if ((letter == 's') || (letter == 'S')) return "sierra";
+  if ((letter == 't') || (letter == 'T')) return "tango";
+  if ((letter == 'u') || (letter == 'U')) return "uniform";
+  if ((letter == 'v') || (letter == 'V')) return "victor";
+  if ((letter == 'w') || (letter == 'W')) return "whiskey";
+  if ((letter == 'x') || (letter == 'X')) return "xray";
+  if ((letter == 'y') || (letter == 'Y')) return "yankee";
+  if ((letter == 'z') || (letter == 'Z')) return "zulu";
+  return "";
+}
+
 void print_decimal_digits_in_natophone(u8 byte) {
+  int ret = 0;
   char s[14];
   memset(s, 0, sizeof(s));
   if (byte < 10) {
-    snprintf(s, sizeof(s), "%s\n", digit_word(byte));
-    return;
+    ret += snprintf(s, sizeof(s), "%s", digit_word(byte));
+  } else {
+    if (byte < 100) {
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word(byte / 10));
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word(byte % 10));
+    } else {
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word(byte / 100));
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word((byte % 100) / 10));
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word((byte % 100) % 10));
+    }
   }
-  if (byte < 100) {
-    printf("%s ", digit_word(byte / 10));
-    printf("%s\n", digit_word(byte % 10));
-    return;
+  for (int c = 0; c < ret; c++) {
+    printf("%s ", nato(s[c]));
   }
-  printf("%s ", digit_word(byte / 100));
-  printf("%s ", digit_word((byte % 100) / 10));
-  printf("%s\n", digit_word((byte % 100) % 10));
+  printf("\n");
 }
 
 int expand(u8 *buf, size_t sz) {
@@ -73,8 +90,8 @@ int main(int argc, char *argv[]) {
   u8 page[4096];
   for (;;) {
     ret = read(1, page, sizeof(page));
+    if (ret == 0) break;
     expand(page, ret);
   }
-  printf("good and doneish\n");
   return 0;
 }
