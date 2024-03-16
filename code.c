@@ -65,12 +65,17 @@ void print_decimal_digits_in_natophone(u8 byte) {
       ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word(byte % 10));
     } else {
       ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word(byte / 100));
-      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word((byte % 100) / 10));
-      ret += snprintf(s + ret, sizeof(s) - ret, "%s", digit_word((byte % 100) % 10));
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s",
+                      digit_word((byte % 100) / 10));
+      ret += snprintf(s + ret, sizeof(s) - ret, "%s",
+                      digit_word((byte % 100) % 10));
     }
   }
   for (int c = 0; c < ret; c++) {
-    printf("%s ", nato(s[c]));
+    printf("%s", nato(s[c]));
+    if (c < (ret - 1)) {
+      printf(" ");
+    }
   }
   printf("\n");
 }
