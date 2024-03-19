@@ -6,13 +6,20 @@
 #include <unistd.h>
 #include <stdlib.h>
 
+#include "table.h"
+
+typedef unsigned char u8;
+
+void contract(char *buf, size_t sz) {
+}
+
 int main(int argc, char *argv[]) {
-/*  int ret = 0;
-  u8 page[4096];
+  int ret = 0;
+  char line[1024];
   for (;;) {
-    ret = read(STDIN_FILENO, page, sizeof(page));
+    ret = read(STDIN_FILENO, line, sizeof(line));
     if (ret == 0) break;
-    expand(page, ret);
-  }*/
+    contract(line, ret);
+  }
   return 0;
 }

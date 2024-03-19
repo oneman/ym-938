@@ -1,0 +1,256 @@
+Line 0: zulu echo romeo oscar
+Line 1: oscar november echo
+Line 2: tango whiskey oscar
+Line 3: tango hotel romeo echo echo
+Line 4: foxtrot oscar uniform romeo
+Line 5: foxtrot india victor echo
+Line 6: sierra india xray
+Line 7: sierra echo victor echo november
+Line 8: echo india golf hotel tango
+Line 9: november india november echo
+Line 10: oscar november echo zulu echo romeo oscar
+Line 11: oscar november echo oscar november echo
+Line 12: oscar november echo tango whiskey oscar
+Line 13: oscar november echo tango hotel romeo echo echo
+Line 14: oscar november echo foxtrot oscar uniform romeo
+Line 15: oscar november echo foxtrot india victor echo
+Line 16: oscar november echo sierra india xray
+Line 17: oscar november echo sierra echo victor echo november
+Line 18: oscar november echo echo india golf hotel tango
+Line 19: oscar november echo november india november echo
+Line 20: tango whiskey oscar zulu echo romeo oscar
+Line 21: tango whiskey oscar oscar november echo
+Line 22: tango whiskey oscar tango whiskey oscar
+Line 23: tango whiskey oscar tango hotel romeo echo echo
+Line 24: tango whiskey oscar foxtrot oscar uniform romeo
+Line 25: tango whiskey oscar foxtrot india victor echo
+Line 26: tango whiskey oscar sierra india xray
+Line 27: tango whiskey oscar sierra echo victor echo november
+Line 28: tango whiskey oscar echo india golf hotel tango
+Line 29: tango whiskey oscar november india november echo
+Line 30: tango hotel romeo echo echo zulu echo romeo oscar
+Line 31: tango hotel romeo echo echo oscar november echo
+Line 32: tango hotel romeo echo echo tango whiskey oscar
+Line 33: tango hotel romeo echo echo tango hotel romeo echo echo
+Line 34: tango hotel romeo echo echo foxtrot oscar uniform romeo
+Line 35: tango hotel romeo echo echo foxtrot india victor echo
+Line 36: tango hotel romeo echo echo sierra india xray
+Line 37: tango hotel romeo echo echo sierra echo victor echo november
+Line 38: tango hotel romeo echo echo echo india golf hotel tango
+Line 39: tango hotel romeo echo echo november india november echo
+Line 40: foxtrot oscar uniform romeo zulu echo romeo oscar
+Line 41: foxtrot oscar uniform romeo oscar november echo
+Line 42: foxtrot oscar uniform romeo tango whiskey oscar
+Line 43: foxtrot oscar uniform romeo tango hotel romeo echo echo
+Line 44: foxtrot oscar uniform romeo foxtrot oscar uniform romeo
+Line 45: foxtrot oscar uniform romeo foxtrot india victor echo
+Line 46: foxtrot oscar uniform romeo sierra india xray
+Line 47: foxtrot oscar uniform romeo sierra echo victor echo november
+Line 48: foxtrot oscar uniform romeo echo india golf hotel tango
+Line 49: foxtrot oscar uniform romeo november india november echo
+Line 50: foxtrot india victor echo zulu echo romeo oscar
+Line 51: foxtrot india victor echo oscar november echo
+Line 52: foxtrot india victor echo tango whiskey oscar
+Line 53: foxtrot india victor echo tango hotel romeo echo echo
+Line 54: foxtrot india victor echo foxtrot oscar uniform romeo
+Line 55: foxtrot india victor echo foxtrot india victor echo
+Line 56: foxtrot india victor echo sierra india xray
+Line 57: foxtrot india victor echo sierra echo victor echo november
+Line 58: foxtrot india victor echo echo india golf hotel tango
+Line 59: foxtrot india victor echo november india november echo
+Line 60: sierra india xray zulu echo romeo oscar
+Line 61: sierra india xray oscar november echo
+Line 62: sierra india xray tango whiskey oscar
+Line 63: sierra india xray tango hotel romeo echo echo
+Line 64: sierra india xray foxtrot oscar uniform romeo
+Line 65: sierra india xray foxtrot india victor echo
+Line 66: sierra india xray sierra india xray
+Line 67: sierra india xray sierra echo victor echo november
+Line 68: sierra india xray echo india golf hotel tango
+Line 69: sierra india xray november india november echo
+Line 70: sierra echo victor echo november zulu echo romeo oscar
+Line 71: sierra echo victor echo november oscar november echo
+Line 72: sierra echo victor echo november tango whiskey oscar
+Line 73: sierra echo victor echo november tango hotel romeo echo echo
+Line 74: sierra echo victor echo november foxtrot oscar uniform romeo
+Line 75: sierra echo victor echo november foxtrot india victor echo
+Line 76: sierra echo victor echo november sierra india xray
+Line 77: sierra echo victor echo november sierra echo victor echo november
+Line 78: sierra echo victor echo november echo india golf hotel tango
+Line 79: sierra echo victor echo november november india november echo
+Line 80: echo india golf hotel tango zulu echo romeo oscar
+Line 81: echo india golf hotel tango oscar november echo
+Line 82: echo india golf hotel tango tango whiskey oscar
+Line 83: echo india golf hotel tango tango hotel romeo echo echo
+Line 84: echo india golf hotel tango foxtrot oscar uniform romeo
+Line 85: echo india golf hotel tango foxtrot india victor echo
+Line 86: echo india golf hotel tango sierra india xray
+Line 87: echo india golf hotel tango sierra echo victor echo november
+Line 88: echo india golf hotel tango echo india golf hotel tango
+Line 89: echo india golf hotel tango november india november echo
+Line 90: november india november echo zulu echo romeo oscar
+Line 91: november india november echo oscar november echo
+Line 92: november india november echo tango whiskey oscar
+Line 93: november india november echo tango hotel romeo echo echo
+Line 94: november india november echo foxtrot oscar uniform romeo
+Line 95: november india november echo foxtrot india victor echo
+Line 96: november india november echo sierra india xray
+Line 97: november india november echo sierra echo victor echo november
+Line 98: november india november echo echo india golf hotel tango
+Line 99: november india november echo november india november echo
+Line 100: oscar november echo zulu echo romeo oscar zulu echo romeo oscar
+Line 101: oscar november echo zulu echo romeo oscar oscar november echo
+Line 102: oscar november echo zulu echo romeo oscar tango whiskey oscar
+Line 103: oscar november echo zulu echo romeo oscar tango hotel romeo echo echo
+Line 104: oscar november echo zulu echo romeo oscar foxtrot oscar uniform romeo
+Line 105: oscar november echo zulu echo romeo oscar foxtrot india victor echo
+Line 106: oscar november echo zulu echo romeo oscar sierra india xray
+Line 107: oscar november echo zulu echo romeo oscar sierra echo victor echo november
+Line 108: oscar november echo zulu echo romeo oscar echo india golf hotel tango
+Line 109: oscar november echo zulu echo romeo oscar november india november echo
+Line 110: oscar november echo oscar november echo zulu echo romeo oscar
+Line 111: oscar november echo oscar november echo oscar november echo
+Line 112: oscar november echo oscar november echo tango whiskey oscar
+Line 113: oscar november echo oscar november echo tango hotel romeo echo echo
+Line 114: oscar november echo oscar november echo foxtrot oscar uniform romeo
+Line 115: oscar november echo oscar november echo foxtrot india victor echo
+Line 116: oscar november echo oscar november echo sierra india xray
+Line 117: oscar november echo oscar november echo sierra echo victor echo november
+Line 118: oscar november echo oscar november echo echo india golf hotel tango
+Line 119: oscar november echo oscar november echo november india november echo
+Line 120: oscar november echo tango whiskey oscar zulu echo romeo oscar
+Line 121: oscar november echo tango whiskey oscar oscar november echo
+Line 122: oscar november echo tango whiskey oscar tango whiskey oscar
+Line 123: oscar november echo tango whiskey oscar tango hotel romeo echo echo
+Line 124: oscar november echo tango whiskey oscar foxtrot oscar uniform romeo
+Line 125: oscar november echo tango whiskey oscar foxtrot india victor echo
+Line 126: oscar november echo tango whiskey oscar sierra india xray
+Line 127: oscar november echo tango whiskey oscar sierra echo victor echo november
+Line 128: oscar november echo tango whiskey oscar echo india golf hotel tango
+Line 129: oscar november echo tango whiskey oscar november india november echo
+Line 130: oscar november echo tango hotel romeo echo echo zulu echo romeo oscar
+Line 131: oscar november echo tango hotel romeo echo echo oscar november echo
+Line 132: oscar november echo tango hotel romeo echo echo tango whiskey oscar
+Line 133: oscar november echo tango hotel romeo echo echo tango hotel romeo echo echo
+Line 134: oscar november echo tango hotel romeo echo echo foxtrot oscar uniform romeo
+Line 135: oscar november echo tango hotel romeo echo echo foxtrot india victor echo
+Line 136: oscar november echo tango hotel romeo echo echo sierra india xray
+Line 137: oscar november echo tango hotel romeo echo echo sierra echo victor echo november
+Line 138: oscar november echo tango hotel romeo echo echo echo india golf hotel tango
+Line 139: oscar november echo tango hotel romeo echo echo november india november echo
+Line 140: oscar november echo foxtrot oscar uniform romeo zulu echo romeo oscar
+Line 141: oscar november echo foxtrot oscar uniform romeo oscar november echo
+Line 142: oscar november echo foxtrot oscar uniform romeo tango whiskey oscar
+Line 143: oscar november echo foxtrot oscar uniform romeo tango hotel romeo echo echo
+Line 144: oscar november echo foxtrot oscar uniform romeo foxtrot oscar uniform romeo
+Line 145: oscar november echo foxtrot oscar uniform romeo foxtrot india victor echo
+Line 146: oscar november echo foxtrot oscar uniform romeo sierra india xray
+Line 147: oscar november echo foxtrot oscar uniform romeo sierra echo victor echo november
+Line 148: oscar november echo foxtrot oscar uniform romeo echo india golf hotel tango
+Line 149: oscar november echo foxtrot oscar uniform romeo november india november echo
+Line 150: oscar november echo foxtrot india victor echo zulu echo romeo oscar
+Line 151: oscar november echo foxtrot india victor echo oscar november echo
+Line 152: oscar november echo foxtrot india victor echo tango whiskey oscar
+Line 153: oscar november echo foxtrot india victor echo tango hotel romeo echo echo
+Line 154: oscar november echo foxtrot india victor echo foxtrot oscar uniform romeo
+Line 155: oscar november echo foxtrot india victor echo foxtrot india victor echo
+Line 156: oscar november echo foxtrot india victor echo sierra india xray
+Line 157: oscar november echo foxtrot india victor echo sierra echo victor echo november
+Line 158: oscar november echo foxtrot india victor echo echo india golf hotel tango
+Line 159: oscar november echo foxtrot india victor echo november india november echo
+Line 160: oscar november echo sierra india xray zulu echo romeo oscar
+Line 161: oscar november echo sierra india xray oscar november echo
+Line 162: oscar november echo sierra india xray tango whiskey oscar
+Line 163: oscar november echo sierra india xray tango hotel romeo echo echo
+Line 164: oscar november echo sierra india xray foxtrot oscar uniform romeo
+Line 165: oscar november echo sierra india xray foxtrot india victor echo
+Line 166: oscar november echo sierra india xray sierra india xray
+Line 167: oscar november echo sierra india xray sierra echo victor echo november
+Line 168: oscar november echo sierra india xray echo india golf hotel tango
+Line 169: oscar november echo sierra india xray november india november echo
+Line 170: oscar november echo sierra echo victor echo november zulu echo romeo oscar
+Line 171: oscar november echo sierra echo victor echo november oscar november echo
+Line 172: oscar november echo sierra echo victor echo november tango whiskey oscar
+Line 173: oscar november echo sierra echo victor echo november tango hotel romeo echo echo
+Line 174: oscar november echo sierra echo victor echo november foxtrot oscar uniform romeo
+Line 175: oscar november echo sierra echo victor echo november foxtrot india victor echo
+Line 176: oscar november echo sierra echo victor echo november sierra india xray
+Line 177: oscar november echo sierra echo victor echo november sierra echo victor echo november
+Line 178: oscar november echo sierra echo victor echo november echo india golf hotel tango
+Line 179: oscar november echo sierra echo victor echo november november india november echo
+Line 180: oscar november echo echo india golf hotel tango zulu echo romeo oscar
+Line 181: oscar november echo echo india golf hotel tango oscar november echo
+Line 182: oscar november echo echo india golf hotel tango tango whiskey oscar
+Line 183: oscar november echo echo india golf hotel tango tango hotel romeo echo echo
+Line 184: oscar november echo echo india golf hotel tango foxtrot oscar uniform romeo
+Line 185: oscar november echo echo india golf hotel tango foxtrot india victor echo
+Line 186: oscar november echo echo india golf hotel tango sierra india xray
+Line 187: oscar november echo echo india golf hotel tango sierra echo victor echo november
+Line 188: oscar november echo echo india golf hotel tango echo india golf hotel tango
+Line 189: oscar november echo echo india golf hotel tango november india november echo
+Line 190: oscar november echo november india november echo zulu echo romeo oscar
+Line 191: oscar november echo november india november echo oscar november echo
+Line 192: oscar november echo november india november echo tango whiskey oscar
+Line 193: oscar november echo november india november echo tango hotel romeo echo echo
+Line 194: oscar november echo november india november echo foxtrot oscar uniform romeo
+Line 195: oscar november echo november india november echo foxtrot india victor echo
+Line 196: oscar november echo november india november echo sierra india xray
+Line 197: oscar november echo november india november echo sierra echo victor echo november
+Line 198: oscar november echo november india november echo echo india golf hotel tango
+Line 199: oscar november echo november india november echo november india november echo
+Line 200: tango whiskey oscar zulu echo romeo oscar zulu echo romeo oscar
+Line 201: tango whiskey oscar zulu echo romeo oscar oscar november echo
+Line 202: tango whiskey oscar zulu echo romeo oscar tango whiskey oscar
+Line 203: tango whiskey oscar zulu echo romeo oscar tango hotel romeo echo echo
+Line 204: tango whiskey oscar zulu echo romeo oscar foxtrot oscar uniform romeo
+Line 205: tango whiskey oscar zulu echo romeo oscar foxtrot india victor echo
+Line 206: tango whiskey oscar zulu echo romeo oscar sierra india xray
+Line 207: tango whiskey oscar zulu echo romeo oscar sierra echo victor echo november
+Line 208: tango whiskey oscar zulu echo romeo oscar echo india golf hotel tango
+Line 209: tango whiskey oscar zulu echo romeo oscar november india november echo
+Line 210: tango whiskey oscar oscar november echo zulu echo romeo oscar
+Line 211: tango whiskey oscar oscar november echo oscar november echo
+Line 212: tango whiskey oscar oscar november echo tango whiskey oscar
+Line 213: tango whiskey oscar oscar november echo tango hotel romeo echo echo
+Line 214: tango whiskey oscar oscar november echo foxtrot oscar uniform romeo
+Line 215: tango whiskey oscar oscar november echo foxtrot india victor echo
+Line 216: tango whiskey oscar oscar november echo sierra india xray
+Line 217: tango whiskey oscar oscar november echo sierra echo victor echo november
+Line 218: tango whiskey oscar oscar november echo echo india golf hotel tango
+Line 219: tango whiskey oscar oscar november echo november india november echo
+Line 220: tango whiskey oscar tango whiskey oscar zulu echo romeo oscar
+Line 221: tango whiskey oscar tango whiskey oscar oscar november echo
+Line 222: tango whiskey oscar tango whiskey oscar tango whiskey oscar
+Line 223: tango whiskey oscar tango whiskey oscar tango hotel romeo echo echo
+Line 224: tango whiskey oscar tango whiskey oscar foxtrot oscar uniform romeo
+Line 225: tango whiskey oscar tango whiskey oscar foxtrot india victor echo
+Line 226: tango whiskey oscar tango whiskey oscar sierra india xray
+Line 227: tango whiskey oscar tango whiskey oscar sierra echo victor echo november
+Line 228: tango whiskey oscar tango whiskey oscar echo india golf hotel tango
+Line 229: tango whiskey oscar tango whiskey oscar november india november echo
+Line 230: tango whiskey oscar tango hotel romeo echo echo zulu echo romeo oscar
+Line 231: tango whiskey oscar tango hotel romeo echo echo oscar november echo
+Line 232: tango whiskey oscar tango hotel romeo echo echo tango whiskey oscar
+Line 233: tango whiskey oscar tango hotel romeo echo echo tango hotel romeo echo echo
+Line 234: tango whiskey oscar tango hotel romeo echo echo foxtrot oscar uniform romeo
+Line 235: tango whiskey oscar tango hotel romeo echo echo foxtrot india victor echo
+Line 236: tango whiskey oscar tango hotel romeo echo echo sierra india xray
+Line 237: tango whiskey oscar tango hotel romeo echo echo sierra echo victor echo november
+Line 238: tango whiskey oscar tango hotel romeo echo echo echo india golf hotel tango
+Line 239: tango whiskey oscar tango hotel romeo echo echo november india november echo
+Line 240: tango whiskey oscar foxtrot oscar uniform romeo zulu echo romeo oscar
+Line 241: tango whiskey oscar foxtrot oscar uniform romeo oscar november echo
+Line 242: tango whiskey oscar foxtrot oscar uniform romeo tango whiskey oscar
+Line 243: tango whiskey oscar foxtrot oscar uniform romeo tango hotel romeo echo echo
+Line 244: tango whiskey oscar foxtrot oscar uniform romeo foxtrot oscar uniform romeo
+Line 245: tango whiskey oscar foxtrot oscar uniform romeo foxtrot india victor echo
+Line 246: tango whiskey oscar foxtrot oscar uniform romeo sierra india xray
+Line 247: tango whiskey oscar foxtrot oscar uniform romeo sierra echo victor echo november
+Line 248: tango whiskey oscar foxtrot oscar uniform romeo echo india golf hotel tango
+Line 249: tango whiskey oscar foxtrot oscar uniform romeo november india november echo
+Line 250: tango whiskey oscar foxtrot india victor echo zulu echo romeo oscar
+Line 251: tango whiskey oscar foxtrot india victor echo oscar november echo
+Line 252: tango whiskey oscar foxtrot india victor echo tango whiskey oscar
+Line 253: tango whiskey oscar foxtrot india victor echo tango hotel romeo echo echo
+Line 254: tango whiskey oscar foxtrot india victor echo foxtrot oscar uniform romeo
+Line 255: tango whiskey oscar foxtrot india victor echo foxtrot india victor echo
