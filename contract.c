@@ -14,12 +14,11 @@ int contract(char *buf, size_t sz) {
   int i;
   int len;
   u8 out[1];
-  /* printf("contract\n"); */
+  if (sz == 0) exit(1);
   for (i = 0; i < 256; i++) {
     len = strlen(table[i]);
     if (len == sz) {
       if (memcmp(buf, table[i], len) == 0) {
-        /*printf("%d\n", i);*/
         out[0] = i;
         write(STDOUT_FILENO, out, 1);
         return sz;
@@ -33,19 +32,16 @@ int contract(char *buf, size_t sz) {
 int main(int argc, char *argv[]) {
   int ret = 0;
   int pos = 0;
-  char linebuf[1024];
+  char line[96];
+  u8 byte = 0;
   for (;;) {
-    ret = read(STDIN_FILENO, linebuf + pos, sizeof(linebuf) - pos);
-    if (ret == 0) break;
+    ret = read(STDIN_FILENO, line + pos, 1);
+    if (ret != 1) exit(1);
+    byte = line[pos];
     pos += ret;
-    /*printf("read %d\n", ret);*/
-    ret = 0;
-    for (int i = 0; i < pos; i++) {
-      if (linebuf[i] == '\n') {
-        contract(linebuf, i);
-        memmove(linebuf, linebuf + i + 1, pos - (i + 1));
-        i = -1;
-      }
+    if (byte == '\n') {
+      contract(line, pos - 1);
+      pos = 0;
     }
   }
   return 0;
